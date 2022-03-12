@@ -1,0 +1,87 @@
+title:            Arzola's Dev Blog
+description:      Arzola's Dev Blog
+disqus_shortname: heisarzola
+reading_time:     false
+words_per_minute: 200
+url: https://devblog.heisarzola.com
+
+# Owner/author information
+owner:
+  name:           Arzola
+  avatar:         avatar.jpg
+  bio:            "\"Your bio goes here.\" said the template. Aaaaa-nd I just wasted all the space... great..."
+  email:          
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: heisarzola       
+  facebook: heisarzola      
+  github:
+  stackexchange:  
+  linkedin:       
+  instagram: heisarzola     
+  flickr:         
+  tumblr:        
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-74765241-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chihuahua
+future:      true  # publish future dated posts --  true, false (default) 
+highlighter: rouge
+markdown:    kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 3
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: 
+  - .htaccess
+exclude: 
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

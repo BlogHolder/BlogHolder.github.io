@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="E77FBEEF-C512-4221-A2A4-ADD9877BD44C" Version="1.1">
+   <Notes>
+      <Note Width="107.507" FontSize="12" ID="0" Position="183.6,46.1" Shadow="Yes">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="3" Style="Rounded">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,14</FormatRange>
+         </Formatting>
+         <String>Arzola’s Games</String>
+         <ConnectedNoteIDs>1-2, 19-20, 40</ConnectedNoteIDs>
+      </Note>
+      <Note Width="35.3271" FontSize="12" ID="1" Position="193.7,116.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>PEG</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="66.4551" FontSize="12" ID="2" Position="245.3,82.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>KNIGHTS</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="39.3433" FontSize="12" ID="3" Position="406.6,219.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Sales</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="111.938" FontSize="12" ID="6" Position="307.2,173.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,13</FormatRange>
+         </Formatting>
+         <String>Announcements</String>
+         <ConnectedNoteIDs>3, 11-14, 18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="92.7246" FontSize="12" ID="8" Position="442.5,403.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,12</FormatRange>
+         </Formatting>
+         <String>Competitions</String>
+         <ConnectedNoteIDs>21-22, 41</ConnectedNoteIDs>
+      </Note>
+      <Note Width="66.8457" FontSize="12" ID="11" Position="318.0,212.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Beta Tests</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="88.2812" FontSize="12" ID="12" Position="468.9,252.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Collaborations</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.0703" FontSize="12" ID="13" Position="357.1,252.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>One-Time Diary</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="67.0839" FontSize="12" ID="14" Position="232.9,216.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Releases</String>
+         <ConnectedNoteIDs>6, 15-17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.8271" FontSize="12" ID="15" Position="133.7,253.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Demo Releases</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="98.5229" FontSize="12" ID="16" Position="248.5,254.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Game Releases</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="111.096" FontSize="12" ID="17" Position="168.9,284.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Platform Releases</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="55.4321" FontSize="12" ID="18" Position="480.6,222.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Reviews</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="114.587" FontSize="12" ID="19" Position="114.2,82.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Sakura Framework</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="71.9238" FontSize="12" ID="20" Position="106.3,117.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Little Room</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="76.1353" FontSize="12" ID="21" Position="378.8,443.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>Game Jams</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="49.0356" FontSize="12" ID="22" Position="471.0,442.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>GDWC</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="67.6514" FontSize="12" ID="23" Position="438.4,47.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.912963 0.894118 0.644541</Fill>
+            <Border Weight="1">0.769436 0.762219 0.390143</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Drawings</String>
+         <ConnectedNoteIDs>24-26</ConnectedNoteIDs>
+      </Note>
+      <Note Width="44.2139" FontSize="12" ID="24" Position="411.7,83.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.912963 0.894118 0.644541</Fill>
+            <Border Weight="1">0.769436 0.762219 0.390143</Border>
+         </Appearance>
+         <String>Fanart</String>
+         <ConnectedNoteIDs>23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="63.7939" FontSize="12" ID="25" Position="442.2,112.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.912963 0.894118 0.644541</Fill>
+            <Border Weight="1">0.769436 0.762219 0.390143</Border>
+         </Appearance>
+         <String>Minimalist</String>
+         <ConnectedNoteIDs>23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="51.2085" FontSize="12" ID="26" Position="488.3,82.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.912963 0.894118 0.644541</Fill>
+            <Border Weight="1">0.769436 0.762219 0.390143</Border>
+         </Appearance>
+         <String>Original</String>
+         <ConnectedNoteIDs>23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="53.8574" FontSize="12" ID="27" Position="445.7,305.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,7</FormatRange>
+         </Formatting>
+         <String>F.A.Q.s</String>
+         <ConnectedNoteIDs>28-29</ConnectedNoteIDs>
+      </Note>
+      <Note Width="83.3252" FontSize="12" ID="28" Position="389.1,350.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <String>F.A.Q. Pages</String>
+         <ConnectedNoteIDs>27</ConnectedNoteIDs>
+      </Note>
+      <Note Width="94.5068" FontSize="12" ID="29" Position="485.2,348.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <String>F.A.Q. Updates</String>
+         <ConnectedNoteIDs>27</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.0107" FontSize="12" ID="30" Position="453.4,487.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>Random</String>
+         <ConnectedNoteIDs>31-32</ConnectedNoteIDs>
+      </Note>
+      <Note Width="78.9307" FontSize="12" ID="31" Position="394.1,525.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>Prop Making</String>
+         <ConnectedNoteIDs>30</ConnectedNoteIDs>
+      </Note>
+      <Note Width="72.229" FontSize="12" ID="32" Position="488.7,525.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>Showcases</String>
+         <ConnectedNoteIDs>30</ConnectedNoteIDs>
+      </Note>
+      <Note Width="187.895" FontSize="12" ID="33" Position="134.8,368.4" Shadow="Yes">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="3" Style="Rounded">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,41</FormatRange>
+         </Formatting>
+         <String>Game Development Tutorials, Tips &amp; Tricks</String>
+         <ConnectedNoteIDs>34-39</ConnectedNoteIDs>
+      </Note>
+      <Note Width="136.98" FontSize="12" ID="34" Position="64.5,427.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Game Development Conferences Redux</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="120.19" FontSize="12" ID="35" Position="217.6,428.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Programming Tricks</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="88.2812" FontSize="12" ID="36" Position="53.5,482.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Relevant Video Game Industry News</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="88.2812" FontSize="12" ID="37" Position="157.3,486.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Software &amp; Tools Suggestions</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="63.562" FontSize="12" ID="38" Position="284.8,471.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Unity Tips</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="69.6411" FontSize="12" ID="39" Position="256.6,514.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Unity Tools</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="92.8345" FontSize="12" ID="40" Position="247.2,115.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>Generic GOTY</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="56.7032" FontSize="12" ID="41" Position="535.5,441.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>Awards</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="3E82EE86-BF09-446C-9129-EA570BA3CB60" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="BA1BBE62-FB6E-4562-82C6-DA0ECB9AF5F3" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="D2E03FB6-531D-4C21-8AE8-8F088BC85144" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="CE5CEBEA-A455-46DC-BFBD-A8954C9D26B5" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="2AC3BC4E-0800-4CB1-A4B2-463B3F52BA9F" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="AD1F1E7C-3500-40D6-8DD5-4699222DBD4F" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="61D74C97-E1FF-432A-B609-729FF5131BF2" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="na-letter" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

@@ -1,0 +1,72 @@
+---
+layout: post
+comments: true
+id: {#input -[desc=ID (yyyyMMdd)]#}
+date: {#input -[desc=Date (yyyy-MM-dd)]#}
+modified: {#input -[desc=Date (yyyy-MM-dd)]#}
+title: Unity Tip - {#input -[desc=Tip Name (Ommit "Programmer Tip - ")]#}
+description: "{#input -[desc=Post Description (Meta Description)]#}"
+permalink: /unity-tip-{#input -[desc=Current Programmer Tip #]#}/
+guid: http://heisarzola.com/devblog/?p={#input -[desc=ID (yyyyMMdd)]#}
+image:
+  header: headers/unity-tips.jpg
+  background: backgrounds/unity-tips.jpg
+tags:
+  - Game Development Tutorials Tips And Tricks
+  - Unity Tips  
+---
+<h1>{#input -[desc=Entry Tagline Title]#}</h1>
+
+<p>{#input -[desc=Entry Top Description][display=textArea][lines=6]#}</p>
+
+<div class="row">
+<!--LEFT-->
+    <div class="column2">
+        <a href="{#input -[desc=Wiki Link]#}" data-elementor-open-lightbox="default" target="_blank"><br />
+        <img src="{#input -[desc=Image Path]#}" alt="" data-recalc-dims="1" /> </a>
+    </div> 
+    
+<!--RIGHT-->
+<div class="column2">
+<h2> <a href="{#input -[desc=Wiki Link]#}" target="_blank">{#input -[desc=Right Side Title]#}</a></h2>
+  <p>{#input -[desc=Main Tip Features Or Steps][display=textArea][lines=8]#}</p>
+<center><a href="{#input -[desc=Wiki Link]#}" class="btn btn-info" target="_blank">{#input See The Wiki Entry -[desc=Right Column Button Text]#}</a></center>
+</div>
+<!--END OF COLUMNS-->
+</div>
+
+<!------------------------------------------------------------------------------->
+<!--------------------GET MORE USEFUL TIPS ON THE GITHUB WIKI-------------------->
+<!------------------------------------------------------------------------------->
+
+<center>
+
+<hr style="border-top: dotted 3px;" />
+
+<h2><a href="https://github.com/heisarzola/Unity-Tips/wiki" target="_blank" rel="noopener">Get More Useful Tips On The GitHub Wiki</a></h2>
+
+<p style="text-align: center;">
+  What you just read about was ONE of several unity tips that are available on the <a href="https://github.com/heisarzola/Unity-Tips/wiki" target="_blank" rel="noopener">Unity Tips Wiki</a>.
+</p>
+
+<p style="text-align: center;">
+  Please also note that the wiki is updated often, so make sure to check it out!
+</p>
+
+<a href="https://github.com/heisarzola/Unity-Tips/wiki" class="btn btn-sucess" target="_blank">Read More Unity Tips!</a>
+
+
+<!------------------------------------------------------------------------------->
+<!----------------------------------FINAL WORDS---------------------------------->
+<!------------------------------------------------------------------------------->
+
+<hr>
+
+<p>{#input -[desc=Final Words][display=textArea][lines=6]#}</p>
+
+<h3>{#input But Like Always…::And Like Always… -[desc="And Like Always…"]#}</h3>
+
+<h4>Thank you very much for reading my blog :3</h4>
+
+<!------------------------------------------------------------------------------->
+<!--GAME_DEV-->

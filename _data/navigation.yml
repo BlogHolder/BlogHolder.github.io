@@ -1,0 +1,10 @@
+# Menu navigation links
+
+- title: Games
+  url: /games/
+  
+- title: For Game Devs & Programmers
+  url: /for-game-devs-and-programmers/
+  
+- title: Doodles
+  url: /doodles/

@@ -1,0 +1,72 @@
+---
+layout: post
+comments: true
+id: {#input -[desc=ID (yyyyMMdd)]#}
+date: {#input -[desc=Date (yyyy-MM-dd)]#}
+modified: {#input -[desc=Date (yyyy-MM-dd)]#}
+title: Software Suggestion - {#input -[desc=Tip Name (Ommit "Programmer Tip - ")]#}
+description: "{#input -[desc=Post Description (Meta Description)]#}"
+permalink: /software-suggestion-{#input -[desc=Current Programmer Tip #]#}/
+guid: http://heisarzola.com/devblog/?p={#input -[desc=ID (yyyyMMdd)]#}
+image:
+  header: headers/software-suggestions.jpg
+  background: backgrounds/software-suggestions.jpg
+tags:
+  - Game Development Tutorials Tips And Tricks
+  - Software And Tools Suggestions
+---
+<h1>{#input -[desc=Entry Tagline Title]#}</h1>
+
+<p>{#input -[desc=Entry Top Description][display=textArea][lines=6]#}</p>
+
+<div class="row">
+<!--LEFT-->
+    <div class="column2">
+        <a href="{#input -[desc=Wiki Link]#}" data-elementor-open-lightbox="default" target="_blank"><br />
+        <img src="{#input -[desc=Image Path]#}" alt="" data-recalc-dims="1" /> </a>
+    </div> 
+    
+<!--RIGHT-->
+<div class="column2">
+<h2> <a href="{#input -[desc=Wiki Link]#}" target="_blank">{#input -[desc=Right Side Title]#}</a></h2>
+  <p>{#input -[desc=Main Tip Features Or Steps][display=textArea][lines=8]#}</p>
+<center><a href="{#input -[desc=Wiki Link]#}" class="btn btn-info" target="_blank">{#input Use It NOW! -[desc=Right Column Button Text]#}</a></center>
+</div>
+<!--END OF COLUMNS-->
+</div>
+
+<!------------------------------------------------------------------------------->
+<!--------------------GET MORE USEFUL TIPS ON THE GITHUB WIKI-------------------->
+<!------------------------------------------------------------------------------->
+
+<center>
+
+<hr style="border-top: dotted 3px;" />
+
+<h2><a href="{{ site.baseurl }}/for-game-devs-and-programmers/software-suggestions/" target="_blank">More Software Suggestions HERE</a></h2>
+
+<p style="text-align: center;">
+  This is but one of <strong>MANY</strong> tools that you can quickly find in the the <a href="{{ site.baseurl }}/for-game-devs-and-programmers/software-suggestions/" target="_blank" rel="noopener">Software Suggestions section</a> of the website.
+</p>
+
+<p style="text-align: center;">
+  New ones are constantly updated, so check out often!
+</p>
+
+<a href="{{ site.baseurl }}/for-game-devs-and-programmers/software-suggestions/" class="btn" target="_blank">See More Recommended Software!</a>
+
+
+<!------------------------------------------------------------------------------->
+<!----------------------------------FINAL WORDS---------------------------------->
+<!------------------------------------------------------------------------------->
+
+<hr>
+
+<p>{#input -[desc=Final Words][display=textArea][lines=6]#}</p>
+
+<h3>{#input But Like Always…::And Like Always… -[desc="And Like Always…"]#}</h3>
+
+<h4>Thank you very much for reading my blog :3</h4>
+
+<!------------------------------------------------------------------------------->
+<!--GAME_DEV-->

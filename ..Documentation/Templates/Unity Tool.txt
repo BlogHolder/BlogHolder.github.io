@@ -1,0 +1,70 @@
+---
+layout: post
+comments: true
+id: {#input -[desc=ID (yyyyMMdd)]#}
+date: {#input -[desc=Date (yyyy-MM-dd)]#}
+modified: {#input -[desc=Date (yyyy-MM-dd)]#}
+title: Unity Tool - {#input -[desc=Tip Name (Ommit "Programmer Tip - ")]#}
+description: "{#input -[desc=Post Description (Meta Description)]#}"
+permalink: /unity-tool-{#input -[desc=Current Unity Tool #]#}/
+guid: http://heisarzola.com/devblog/?p={#input -[desc=ID (yyyyMMdd)]#}
+image:
+  header: headers/unity-tools.jpg
+  background: backgrounds/unity-tools.jpg
+tags:
+  - Game Development Tutorials Tips And Tricks
+  - Unity Tools
+---
+<h1>{#input -[desc=Entry Tagline Title]#}</h1>
+
+<p>{#input -[desc=Entry Top Description][display=textArea][lines=6]#}</p>
+
+<!--LEFT-->
+<div class="row">
+    <div class="column2">
+        <a href="{#input -[desc=Tool Link]#}" data-elementor-open-lightbox="default" target="_blank"><br />
+        <img src="{#input -[desc=Image Path]#}" alt="" data-recalc-dims="1" /> </a>
+    </div>
+  
+<!--RIGHT-->
+
+<div class="column2">
+<h2> <a href="{#input -[desc=Tool Link]#}" target="_blank">{#input -[desc=Right Side Title]#}</a></h2>
+  <p>{#input -[desc=Main Tool Features Or Uses][display=textArea][lines=8]#}</p>
+<center><a href="{#input -[desc=Tool Link]#}" class="btn btn-info" target="_blank">{#input Download it for FREE! -[desc=Right Column Button Text]#}</a></center>
+</div>
+<!--END OF COLUMNS-->
+</div>
+
+<!------------------------------------------------------------------------------->
+<!--------------------GET MORE USEFUL TIPS ON THE GITHUB WIKI-------------------->
+<!------------------------------------------------------------------------------->
+
+<center>
+
+<hr style="border-top: dotted 3px;" />
+
+<h2><a href="https://github.com/heisarzola/Unity-Development-Tools" target="_blank">Visit The GitHub Repository For More FREE Tools</a></h2>
+
+<p>
+You just read about one of several FREE tools that you can get on the <a href="https://github.com/heisarzola/Unity-Development-Tools" target="_blank" rel="noopener"><b>Unity Development Tools Repository</b></a>. Again, they are FREE so just go see them, there are neat things in there~
+</p>
+
+<a href="https://github.com/heisarzola/Unity-Development-Tools" class="btn btn-sucess" target="_blank">See all of the tools!</a>
+
+
+
+<!------------------------------------------------------------------------------->
+<!----------------------------------FINAL WORDS---------------------------------->
+<!------------------------------------------------------------------------------->
+
+<hr>
+
+<p>{#input -[desc=Final Words][display=textArea][lines=6]#}</p>
+
+<h3>{#input But Like Always…::And Like Always… -[desc="And Like Always…"]#}</h3>
+
+<h4>Thank you very much for reading my blog :3</h4>
+
+<!------------------------------------------------------------------------------->
+<!--GAME_DEV-->

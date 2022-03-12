@@ -1,0 +1,188 @@
+---
+layout: post
+comments: true
+id: 180321
+date: 2018-03-21
+modified: 2018-03-22
+title: Post Title
+description: "This is what will be shown when you share links."
+permalink: /full-link/
+link: http://alternate_link_to_use_on_title.com  
+guid: http://heisarzola.com/devblog/?p=180321
+image:
+  feature: avatar.jpg
+  header: headers/one-time-diary.jpg
+  credit: Credit Text (Bottom Right Box)
+  creditlink: http://somelink.com
+  background: someImageToTileInBackground.png
+tags:
+  - Arzola's Games
+  - Sakura Framework
+  - KNIGHTS
+  - Little Room
+  - PEG
+  - Generic GOTY  
+  
+  - Game Development Tutorials Tips And Tricks
+  - Unity Tips
+  - Programmer Tips
+  - Unity Tools
+  - Software And Tools Suggestions
+  - Game Development Conferences Redux
+  - Relevant Video Game Industry News
+  
+  - Announcements  
+  - Releases
+  - Demo Releases
+  - Game Releases
+  - Platform Releases  
+  - Sales
+  - Reviews
+  - Collaborations
+  - Beta Tests
+  - One-Time Diary
+  
+  - Drawings
+  - Fanart
+  - Original Drawings
+  - Minimalist Drawings
+  
+  - F.A.Q.s
+  - F.A.Q. Pages
+  - F.A.Q. Updates
+  
+  - Competitions
+  - Game Jams
+  - GDWC
+  
+  - Random
+  - Prop Making
+  - Showcases
+---
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+## Body text
+
+**Bold**.
+<u>Undelined</u>
+<sub>Subtext</sub>
+<abbr title="cascading stylesheets">CSS<abbr>
+
+### Images
+
+## Left
+![Alt Text]({{ site.url }}/images/hello.jpg)
+
+## Right
+![Alt Text]({{ site.url }}/images/hello.jpg)
+{: .image-right}
+.
+
+## Adding A Video
+<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"></iframe>
+
+## Adding Code
+```html
+<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"></iframe>
+```
+```csharp
+public class HelloWorld
+{
+	public static void HelloWorld()
+	{
+		Print("Sup");
+	}
+}
+```
+
+### Blockquotes
+
+> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+
+## List Types
+
+### Ordered Lists
+
+1. Item one
+   1. sub item one
+   2. sub item two
+   3. sub item three
+2. Item two
+
+### Unordered Lists
+
+* Item one
+* Item two
+* Item three
+
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
+## Code Snippets
+
+Syntax highlighting via Rouge
+
+```css
+#container 
+{
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+```
+
+Non Pygments code example
+
+    <div id="awesome">
+        <p>This is great isn't it?</p>
+    </div>
+
+## Buttons
+
+<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+
+## Figures (for images or video)
+
+### One Up
+
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt=""></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
+
+Carousel:
+
+{% capture images %}
+	/images/abstract-10.jpg
+	/images/abstract-11.jpg
+	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
+	http://placehold.it/1200x600.jpg
+	http://placehold.it/1200x600.jpg
+	http://placehold.it/1200x600.jpg
+{% endcapture %}
+{% include gallery images=images caption="Text Under Images" cols=1 %}

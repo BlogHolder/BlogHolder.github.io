@@ -1,0 +1,62 @@
+---
+comments: true
+id: {#input -[desc=ID (yyMMdd)]#}
+date: {#input -[desc=Date (yyyy-MM-dd)]#}
+modified: {#input -[desc=Date (yyyy-MM-dd)]#}
+title: {#input -[desc=Post Title]#}
+description: {#input -[desc=Post Description]#}
+permalink: /gdcr-{#input -[desc=Permalink (/gdcr-________/)]#}/
+guid: http://heisarzola.com/devblog/?p={#input -[desc=ID (yyMMdd)]#}
+image:
+  header: headers/gdcr.jpg
+  background: backgrounds/gdcr.png
+tags:  
+  - Game Development Tutorials Tips And Tricks
+  - Game Development Conferences Redux
+---
+<p>
+  Welcome to <strong>Game Development Conferences Redux</strong>, a place where it is attempted to <em>condense the contents of hour-long game development videos, in compact, written format for those with less time</em>.
+</p>
+
+<p>
+  For this issue we are covering the contents of the <u><a href="{#input -[desc=Talk Link]#}" target="_blank" rel="noopener">{#input -[desc=Talk Name]#}</a></u>. Where in a nutshell, {#input -[desc=Where in a nutshell, _______ (Talk Short Description)][display=textArea][lines=6]#}
+</p>
+
+<hr style="border-top: dotted 3px;" />
+
+<p>
+    {#input -[desc=Top Text][display=textArea][lines=6]#}
+</p>  
+
+<!------------------------------------------------------------------------------->
+<!-----------------------VIDEO/IMAGE-TITLE-DESCRIPTION--------------------------->
+<!------------------------------------------------------------------------------->
+
+<!-- Please note, this code was generated clicking on embed on a specific youtube video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IrrF_bUE8yc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a href="IMAGE_LINK" data-elementor-open-lightbox="default">
+    <img src="IMAGE_LINK" alt="" />
+</a>
+
+<h2>SOME_TITLE</h2>
+
+<p>
+  SOME_TEXT.
+</p>
+
+
+<!------------------------------------------------------------------------------->
+<!----------------------------------FINAL WORDS---------------------------------->
+<!------------------------------------------------------------------------------->
+
+<hr>
+
+<p>{#input -[desc=Final Words][display=textArea][lines=6]#}</p>
+
+<h3>{#input But Like Always…::And Like Always… -[desc="And Like Always…"]#}</h3>
+
+<h4>Thank you very much for reading my blog :3</h4>
+
+<!------------------------------------------------------------------------------->
+<!--GAME_DEV-->

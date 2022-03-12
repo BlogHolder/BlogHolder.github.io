@@ -1,0 +1,71 @@
+.column2 
+{
+    padding-right: 8px;
+    padding-left: 8px;
+    float: left;
+    width: 50%;
+}
+.column3 
+{
+    padding-right: 5px;
+    padding-left: 5px;
+    float: left;
+    width: 33.33%;
+}
+.column4
+{
+    padding-right: 5px;
+    padding-left: 5px;
+    float: left;
+    width: 25%;
+}
+.column10
+{
+    padding-right: 5px;
+    padding-left: 5px;
+    float: left;
+    width: 10%;
+}
+.column80c
+{
+    padding-right: 5px;
+    padding-left: 5px;
+    align-self: center;
+    float: left;
+    width: 80%;
+}
+.row
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* Clear floats after the columns */
+.row:after 
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+.titleMain a
+{
+  color: #4B8EB2 !important;
+  text-decoration: underline;
+  &:hover, &:visited, &:active { color: #8878A2 !important; }
+}
+h1, h2
+{
+  font-weight: bold;
+  color: #6CA6CD;
+  text-align: center;
+}
+h2 a
+{ 
+  color: #6CA6CD !important;
+  text-decoration: underline;
+  &:hover, &:visited, &:active { color: #8878A2 !important; }
+}
+p
+{
+    text-align: justify !important;
+}
